@@ -1,0 +1,22 @@
+<p class="full width ">
+                            <!--Unordered List-->
+                            <ul>
+                                <li> Going on bike trails </li>
+                                <li> Being a tourist in a new city </li>
+                                <li> Learning new skills </li>
+                                <li> Playing tennis </li>
+                            </ul>
+
+
+    <!--Header with name and 'occupation'-->
+    <header>
+        <h2 class="full wdith">
+            Thinkful Student
+        </h2>
+    </header>
+
+ <!--bg image only-->
+    <div class="bg-full-image">
+        <img src="https://github.com/Jamylka/Web-Page-Portfolio/blob/main/images/idaho%20pano.JPG?raw=true" class="center" alt="Panoramic view of Idaho" />
+    </div>
+<!--End of full bg image-->
